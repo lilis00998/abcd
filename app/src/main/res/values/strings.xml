@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Info Kesehatan</string>
+    <string name="placeholder_search">search</string>
+    <string name="ab1_inversion">inversion\n</string>
+    <string name="fc2_nature_meditations">meditations\n</string>
+    <string name="ab2_quick_yoga">ab2_qiuck_yoga</string>
+    <string name="ab3_stretching">ab3_stretching</string>
+    <string name="ab4_tabata">ab4_tabata</string>
+    <string name="ab5_hiit">ab5_hiit</string>
+    <string name="ab6_pre_natal_yoga">ab6_pre_natal_yoga</string>
+    <string name="fc1_short_mantras">fc1_short_mantras\n</string>
+    <string name="fc3_stress_and_anxiety">fc3_stress_and_anxiety</string>
+    <string name="fc4_self_massage">fc4_self_massage</string>
+    <string name="fc5_overwhelmed">fc5_overwhelmed</string>
+    <string name="fc6_nightly_wind_down">fc6_nightly_wind_down</string>
+    <string name="align_your_body">align_your_body</string>
+    <string name="favorite_collections">favorite_collections</string>
+    <string name="ab1_inversions">inversions</string>
+    <string name="ab3_streching">streching</string>
+</resources>
